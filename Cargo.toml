@@ -1,0 +1,18 @@
+[package]
+name = "max30105"
+version = "0.1.0"
+edition = "2024"
+license = "GNU General Public License v3.0"
+authors = ["Dennis Stumm"]
+description = "Driver for the MAX30105 pulse oximeter and heart-rate sensor"
+readme = "README.md"
+keywords = ["embedded", "driver", "sensor", "pulse oximeter", "heart rate", "MAX30105"]
+categories = ["embedded", "device-drivers", "no-std"]
+homepage = "https://github.com/dsst95/max30105"
+documentation = "https://docs.rs/max30105"
+
+[dependencies]
+embedded-hal-async = "1.0.0"
+
+[dev-dependencies]
+futures = "0.3"
