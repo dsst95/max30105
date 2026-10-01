@@ -1,0 +1,6 @@
+![GitHub License](https://img.shields.io/github/license/dsst95/max30105)
+![GitHub branch status](https://img.shields.io/github/checks-status/dsst95/max30105/master)
+[![codecov](https://codecov.io/github/dsst95/max30105/graph/badge.svg?token=J8OOTKH6JG)](https://codecov.io/github/dsst95/max30105)
+![Crates.io Version](https://img.shields.io/crates/v/max30105)
+![Crates.io Total Downloads](https://img.shields.io/crates/d/max3015)
+![docs.rs](https://img.shields.io/docsrs/max30105)
